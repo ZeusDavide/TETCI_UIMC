@@ -58,6 +58,19 @@ To reproduce the experimental results in Section "Performance Evaluation" of the
 For nonnegative hyper-parameters (α, β, and η),  we set α=10^{-2}, β=10^{5}, and η=10^{-1}.
 In general, increasing iteration number time will promote the clustering performance and consume more time. We recommend its maximum value is 40.
 
+### Citation
+If you use this code please cite:
+
+```
+@article{fang2021uimc,
+  title={Unbalanced Incomplete Multi-view Clustering via the Scheme of View Evolution:
+Weak Views are Meat; Strong Views do Eat},
+  author={Fang, Xiang and Hu, Yuchong and Zhou, Pan and Wu, Dapeng Oliver},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year={2021},
+  publisher={IEEE}}
+```
+
 
 ## Contact
 
