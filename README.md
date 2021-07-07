@@ -2,7 +2,7 @@
 
 This is the repository for the paper: **Unbalanced Incomplete Multi-view Clustering via the Scheme of View Evolution:
 Weak Views are Meat; Strong Views do Eat**  accepted by IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) by Xiang Fang, Yuchong Hu, Pan Zhou, and Dapeng Oliver Wu.
-This demo is only used to reproduce our experimental results, please do not use it for other purposes.
+This demo is only used to reproduce our experimental results, please do not use it for other purposes. Both [IEEE Version](https://ieeexplore.ieee.org/document/9475074) and [arXiv Version](https://arxiv.org/abs/2011.10254) are available.
 
 Unbalanced Incomplete Multi-view Clustering
 Multi-view clustering has wide applications in many scenarios. 
@@ -68,7 +68,8 @@ Weak Views are Meat; Strong Views do Eat},
   author={Fang, Xiang and Hu, Yuchong and Zhou, Pan and Wu, Dapeng Oliver},
   journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
   year={2021},
-  publisher={IEEE}}
+  publisher={IEEE}
+  doi={10.1109/TETCI.2021.3077909}}
 ```
 
 
